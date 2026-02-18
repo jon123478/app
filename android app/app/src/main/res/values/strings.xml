@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">VolumeNav</string>
-    <string name="service_name">VolumeNav Service</string>
-    <string name="service_description">Use Volume Buttons to navigate the screen. Up/Down to move focus, Long Press Up to Click, Long Press Down to Back, Both to Home.</string>
-    <string name="enable_service_text">To use Volume Buttons for navigation, please enable the Accessibility Service.</string>
-    <string name="btn_open_settings">Open Accessibility Settings</string>
-</resources>
